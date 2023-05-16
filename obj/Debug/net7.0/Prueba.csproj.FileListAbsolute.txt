@@ -1,0 +1,15 @@
+/Users/jillanajuarez/Desktop/Prueba/bin/Debug/net7.0/Prueba
+/Users/jillanajuarez/Desktop/Prueba/bin/Debug/net7.0/Prueba.deps.json
+/Users/jillanajuarez/Desktop/Prueba/bin/Debug/net7.0/Prueba.runtimeconfig.json
+/Users/jillanajuarez/Desktop/Prueba/bin/Debug/net7.0/Prueba.dll
+/Users/jillanajuarez/Desktop/Prueba/bin/Debug/net7.0/Prueba.pdb
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.csproj.AssemblyReference.cache
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.AssemblyInfoInputs.cache
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.AssemblyInfo.cs
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.csproj.CoreCompileInputs.cache
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.dll
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/refint/Prueba.dll
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.pdb
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/Prueba.genruntimeconfig.cache
+/Users/jillanajuarez/Desktop/Prueba/obj/Debug/net7.0/ref/Prueba.dll
